@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Eaí! Eu sou o **Luiz Roberto**, um desenvolvedor **frontend/backend** apaixonado por resolver problemas e criar soluções eficientes. Sou formado em **Análise e Desenvolvimento de Sistemas** pelo **IFRN**, e adoro trabalhar com **HTML, CSS, C++, Java e Python**. Estou sempre em busca de aprender novas tecnologias e evoluir minhas habilidades.
+Eaí! Eu sou **Luiz Roberto**, um desenvolvedor **frontend/backend** apaixonado por programação. Sou formado em **Análise e Desenvolvimento de Sistemas** pelo **IFRN**, e adoro trabalhar com **HTML, CSS, C++, Java e Python**. Estou sempre em busca de aprender novas tecnologias e evoluir minhas habilidades.
 
 Minhas especialidades incluem **desenvolvimento web**, **APIs** e **integração de sistemas**, com foco em **front-end** e **back-end**. Fora da programação, sou ativo em esportes e um grande entusiasta de **games** e **livros**.
 
