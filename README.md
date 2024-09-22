@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=3000&lines=Olá,+eu+sou+Beto!;Bem-vindo+ao+meu+perfil+do+GitHub!+😄" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+Beto!;Bem-vindo+ao+meu+perfil+do+GitHub!+😄" />
 
 ## Sobre Mim
 
@@ -8,7 +8,7 @@ Eaí! Eu sou **Luiz Roberto**, um desenvolvedor **frontend/backend** apaixonado 
 
 Minhas especialidades incluem **desenvolvimento web**, **APIs** e **integração de sistemas**, com foco em **front-end** e **back-end**. Fora da programação, sou ativo em esportes e um grande entusiasta de **games** e **livros**.
 
-Seja muito bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e me mandar uma mensagem se quiser trocar uma ideia sobre tecnologia ou qualquer outra coisa. 😄
+Seja muito bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e me mandar uma mensagem se quiser trocar uma ideia sobre tecnologia ou qualquer outra coisa. <img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=750&lines=🖐️;😄" />
 
 ---
 
