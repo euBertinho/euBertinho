@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26tP7G2z6T0F07H2A/giphy.gif" width="100%" alt="Waving Hand"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Beto!;Bem-vindo+ao+meu+perfil+do+GitHub!+😄" />
 
