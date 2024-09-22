@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+nome+é+Luiz!;Bem-vindo+ao+meu+perfil+GitHub!+😄" />
 
 Sobre Mim
-Fala aí! Eu sou o [Luiz], um desenvolvedor de [tecnologia principal] apaixonado por resolver problemas e criar soluções eficientes. Curto bastante trabalhar com [linguagem ou framework], e sempre estou em busca de aprender novas tecnologias para me manter atualizado.
+Eaí! Eu me chamo [Luiz Roberto], um desenvolvedor [frontend/backend] apaixonado por resolver problemas e criar soluções eficientes. Curto bastante trabalhar com [Html, css, c++, java e python], e sempre estou em busca de aprender novas tecnologias.
 
-Minhas especialidades incluem [especialidade 1], [especialidade 2] e [especialidade 3], com foco em [detalhe sobre o que você gosta de desenvolver, como APIs, front-end, etc.]. Fora da programação, também sou entusiasta de [interesses pessoais, como música, esportes, livros, etc.].
+Minhas especialidades incluem [especialidade 1], [especialidade 2] e [especialidade 3], com foco em [front-end, APIs, etc.].
+Fora da programação, também sou ativo com relação a esportes, entusiasta de [Games e livros].
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e me mandar uma mensagem se quiser trocar uma ideia sobre tecnologia ou qualquer outra coisa. 😄
 
