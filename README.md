@@ -14,8 +14,11 @@ Seja muito bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus proje
 
 ## Projetos Destaque
 
-### [Nome do Projeto](link do projeto)
-Uma breve descrição do projeto. Este projeto foi feito com [tecnologias usadas] e resolve [problema que ele resolve].
+### **Sistema Escolar**(https://github.com/euBertinho/SistemaEscolar_poo.java)
+Projeto feito em colaboração com @Rielps a respeito de um Sistema Escolar feito em java com programação orientada a objetos onde é possível criar turmas com professores e disciplinas, adicionar um aluno a uma disciplina e calcular sua média, fora abrir uma opção para prova final caso necessário! 
+
+### **Vetores Dinâmicos** (https://github.com/euBertinho/Vetores-Dinamicos)
+Um projeto referente a matéria de Algoritmos onde foi-se feito a implementação de vetores dinâmicos em c++, a aplicação de sua biblioteca em exemplos práticos de funcionalidade!
 
 ---
 
@@ -31,9 +34,9 @@ Uma breve descrição do projeto. Este projeto foi feito com [tecnologias usadas
 ## Minhas Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiiz.rs/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuPerfil)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/username)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seuNumero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-roberto-desenvolvedor/)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/eubinho)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5584988294667)
 
 ---
 
@@ -49,4 +52,19 @@ Uma breve descrição do projeto. Este projeto foi feito com [tecnologias usadas
 
 ## Ferramentas que Eu Utilizo
 
-<img align="center" alt="Git" src="https://img.shields.io/badge/G
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  
+<img align="center" alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+
+---
+
+## Minhas Contribuições
+
+- Contribuí para o projeto **Sistema Escolar**(https://github.com/euBertinho/SistemaEscolar_poo.java) adicionando recursos de média dos alunos, junção de professores com suas respectivas disciplinas, criação da matrícula juntamente com a ultilização da mesma para acessar a área de boletim do aluno.
+
+---
+
+## Entre em Contato
+
+Se você quiser bater um papo sobre programação, esportes ou qualquer outro assunto interessante, sinta-se à vontade para me mandar uma mensagem nas minhas redes sociais ou me enviar um e-mail! :)
