@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Beto!;Bem-vindo+ao+meu+perfil+do+GitHub!+😄" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=3000&lines=Olá,+eu+sou+Beto!;Bem-vindo+ao+meu+perfil+do+GitHub!+😄" />
 
 ## Sobre Mim
 
