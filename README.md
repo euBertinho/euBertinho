@@ -20,6 +20,7 @@ Projeto feito em colaboração com @Rielps a respeito de um Sistema Escolar feit
 ### **Vetores Dinâmicos** (https://github.com/euBertinho/Vetores-Dinamicos)
 Um projeto referente a matéria de Algoritmos onde foi-se feito a implementação de vetores dinâmicos em c++, a aplicação de sua biblioteca em exemplos práticos de funcionalidade!
 
+## **Time ganhador do WTADS 2024.2 com o grupo do IFFOOD, projeto realizado pela matéria de WebDesign e IHC, mentoradas por Silvia!
 ---
 
 <div align="center">
